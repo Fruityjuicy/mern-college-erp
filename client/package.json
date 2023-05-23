@@ -23,7 +23,7 @@
     "redux": "^4.1.2",
     "redux-devtools-extension": "^2.13.9",
     "redux-thunk": "^2.4.1",
-    "socket.io-client": "^4.4.1",
+    "socket.io-client": "^4.6.1",
     "styled-components": "^5.3.3",
     "timeago.js": "^4.0.2",
     "timeagojs": "^1.0.0",
